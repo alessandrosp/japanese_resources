@@ -8,7 +8,9 @@
 
 ### Vocabulary
 
-List of words associated with the various JPLT levels. Note that there isn't an official list of words (whilst there's an official list of kanji). These lists are created by collating various unofficial lists and they can be expected to be more or less correct.
+List of words associated with the various JPLT levels. Note that there isn't an official list of words (whilst there's an official list of kanji). These lists are created by collating various unofficial lists and they can be expected to be more or less correct in the sense that these words have a high probability to be used in the tests.
+
+That said, there is not guarantee that words that are not in these lists won't appear on any of the tests (see [I just want to remind everyone there is no Official JLPT N1 Vocab list](https://www.reddit.com/r/LearnJapanese/comments/5gnt58/i_just_want_to_remind_everyone_there_is_no/)).
 
 | Level | Num. Words (Level) | Num. Words (Cumulative) |
 |:-----:|:------------------:|:-----------------------:|
