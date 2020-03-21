@@ -101,7 +101,7 @@ Below, you can find a table showing the coverage of JLPT N-levels by WaniKani le
 | Level 59 | 68.99% | 69.03% | 63.29% | 52.64% | 42.02% |
 | Level 60 | 69.14% | 69.11% | 63.32% | 52.74% | 42.16% |
 
-The following table is identical to the one above with the exception that words that are made entirely of kana (so きれい but not 走る) are omitted.
+The following table is identical to the one above with the exception that words that are made entirely of kana (so きれい but not 走る) are omitted. Note that even following this extra filtering step the approach is far from perfect. For example, the word 伯母さん appears on the N5 list but not on WaniKani; however, the term 伯母 does appear on WaniKani (Level 50) and that's fundamentally the same word.  
 
 |          |   N5   |   N4   |   N3   |   N2   |   N1   |
 |:--------:|:------:|:------:|:------:|:------:|:------:|
