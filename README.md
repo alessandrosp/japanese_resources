@@ -21,3 +21,13 @@ That said, there is not guarantee that words that are not in these lists won't a
 |   N3  |        1743        |           3000          |
 |   N4  |         582        |           1257          |
 |   N5  |         675        |                         |
+
+## WaniKani
+
+### Kanji
+
+Sources: [wkstats.com](https://www.wkstats.com:10001/items/wanikani).
+
+### Vocabulary
+
+Sources: [wkstats.com](https://www.wkstats.com:10001/items/wanikani).
