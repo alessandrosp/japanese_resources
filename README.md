@@ -28,6 +28,10 @@ That said, there is not guarantee that words that are not in these lists won't a
 
 Sources: [wkstats.com](https://www.wkstats.com:10001/items/wanikani).
 
+The various kanji presented as part of WaniKani. They are grouped based on the levels at which they appear.
+
 ### Vocabulary
 
 Sources: [wkstats.com](https://www.wkstats.com:10001/items/wanikani).
+
+The various words presented as part of WaniKani. They are grouped based on the levels at which they appear.
